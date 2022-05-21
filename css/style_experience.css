@@ -1,0 +1,92 @@
+
+*{
+    margin:0;
+    padding:0;
+
+}
+
+.firstSection2{
+    height: 30vh;
+
+}
+
+.box-main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    max-width: 50%;
+    margin: auto;
+        height: 90%;
+
+}
+
+
+.section2{
+    /* justify-content: center; */
+    /* align-items: left; */
+    display: flex;
+    /* height: 500px; */
+    max-width: 80%;
+    margin: auto;
+    padding: 40px;
+    align-content: center;
+    
+}
+
+.section3{
+    /* justify-content: center; */
+    /* align-items: left; */
+    /* display: flex; */
+    /* height: 500px; */
+    max-width: 80%;
+    margin: auto;
+    padding: 40px;
+    align-content: center;
+    
+}
+
+.heading{
+    padding: 0 50px;
+
+}
+
+.heading3{
+    padding: 20px 30px;
+
+}
+
+.sectiontag2{
+    /* padding: 16px 0; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-medium{
+    font-size: 25px;
+    font-weight: bold;
+    /* padding-top: 20px 0; */
+
+}
+
+.text-medium-small{
+    font-size: 16px;
+    text-align: left;
+    /* font-weight: bold; */
+    padding-top: 2px;
+}
+
+.detail{
+    /* padding: 0 22px;
+    margin: auto;
+    max-width: 60%; */
+
+}
+.sectionsubtag2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    padding-left: 50px;
+
+}
+
+
